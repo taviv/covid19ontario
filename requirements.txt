@@ -1,0 +1,6 @@
+pandas
+numpy
+json
+urllib
+beautifulsoup4
+geopandas
